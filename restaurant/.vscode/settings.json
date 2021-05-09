@@ -1,0 +1,15 @@
+{
+  "files.exclude": {
+    ".dart_tool": true,
+    ".idea": true,
+    ".vscode": true,
+    ".gitignore": true,
+    ".metadata": true,
+    ".packages": true,
+    "CHANGELOG.md": true,
+    "LICENSE": true,
+    "README.md": true,
+    "restaurant.iml": true,
+    "pubspec.lock": true
+  }
+}

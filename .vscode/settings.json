@@ -1,0 +1,14 @@
+{
+  "files.exclude": {
+    ".idea": true,
+    "auth/.dart_tool": true,
+    "auth/.idea": true,
+    "auth/.gitignore": true,
+    "auth/.metadata": true,
+    "auth/.packages": true,
+    "auth/auth.iml": true,
+    "auth/CHANGELOG.md": true,
+    "auth/LICENSE": true,
+    "auth/pubspec.lock": true
+  }
+}
